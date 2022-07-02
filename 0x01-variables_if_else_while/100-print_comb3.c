@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 
-
 /**
 *main - prints numbers from 00 to 89
 *Return: 0 if (successful)
@@ -27,7 +26,7 @@ if (i == 57 && e == 56)
 break;
 }
 putchar(',');
-putchar(' ')
+putchar(' ');
 }
 i++;
 }

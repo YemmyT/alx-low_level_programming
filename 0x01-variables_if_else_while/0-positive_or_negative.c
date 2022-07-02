@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
-*main -> assign a random number to the variable n each time it is executed and print out according to condi*Return: always 0 
+*main - assigns a random number to the value of n everytime
+*Return: 0 if (successful)
 */
 int main(void)
 {
@@ -19,4 +19,3 @@ else if (n < 0)
 printf("%d is negative\n", n);
 return (0);
 }
-
