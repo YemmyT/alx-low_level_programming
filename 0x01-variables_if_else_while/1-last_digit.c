@@ -4,6 +4,7 @@
 
 /**
 *main -> assign a random number to the variable n each time it is executed print last digit
+*stored nuber in variable
 *Return: 0 if (successful)
 */
 int main(void)
